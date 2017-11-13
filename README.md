@@ -42,6 +42,8 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Transaction naming standards
 
 # Comments in the script:
+Why use comments in the scripts?
+How to insert comments in the scripts?
 
 # Getting Started with Performance Testing Using LoadRunner
 
