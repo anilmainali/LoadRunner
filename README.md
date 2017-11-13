@@ -34,6 +34,8 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## What are checkpoints?
 ## Types of checkpoints?
 
+# Transactions:
+
 # Getting Started with Performance Testing Using LoadRunner
 
 # Download LoadRunner
