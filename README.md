@@ -41,6 +41,8 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Nested Transactions with syntax and example
 ## Transaction naming standards
 
+# Comments in the script:
+
 # Getting Started with Performance Testing Using LoadRunner
 
 # Download LoadRunner
