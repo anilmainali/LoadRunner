@@ -35,11 +35,11 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Types of checkpoints?
 
 # Transactions:
-What are Transactions?
-Why Transactions?
-Syntax with example
-Nested Transactions with syntax and example
-Transaction naming standards
+## What are Transactions?
+## Why Transactions?
+## Syntax with example
+## Nested Transactions with syntax and example
+## Transaction naming standards
 
 # Getting Started with Performance Testing Using LoadRunner
 
