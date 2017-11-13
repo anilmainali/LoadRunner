@@ -17,10 +17,10 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Load Test Process
 
 # Vugen
-What is Vugen?
-Why Vugen?
-Vugen Workflow
-Vugen Recording options
+## What is Vugen?
+## Why Vugen?
+## Vugen Workflow
+## Vugen Recording options
 
 # Getting Started with Performance Testing Using LoadRunner
 
