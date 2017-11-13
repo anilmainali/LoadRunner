@@ -30,6 +30,10 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## How to identify which values to correlate
 ## Correlation Rules
 
+# Checkpoints:
+## What are checkpoints?
+## Types of checkpoints?
+
 # Getting Started with Performance Testing Using LoadRunner
 
 # Download LoadRunner
