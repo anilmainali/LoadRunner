@@ -12,9 +12,9 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Why LoadRunner?
 ## LoadRunner Components
 ## LoadRunner Protocols
-LoadRunner Architecture
-How LoadRunner works?
-Load Test Process
+## LoadRunner Architecture
+## How LoadRunner works?
+## Load Test Process
 
 # Getting Started with Performance Testing Using LoadRunner
 
