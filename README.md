@@ -78,6 +78,11 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Think time vs Pacing
 
 # Script covering all topics
+Web Tours application script which covers all the above topics.
+Advanced scripts covering following topics
+Using correlated parameters as an array.
+Randomly picking values from drop-down list
+How to create a File to store data?
 
 
 # Getting Started with Performance Testing Using LoadRunner
