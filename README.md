@@ -53,9 +53,9 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Runtime Data
 
 # Script Structure:
-Script Structure
-Multiple action files
-Script Rules
+## Script Structure
+## Multiple action files
+## Script Rules
 
 # Getting Started with Performance Testing Using LoadRunner
 
