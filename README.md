@@ -58,13 +58,13 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Script Rules
 
 # Parameterization
-What is Parameterization?
-Why Parameterization?
-Objectives of Parameterization
-Parameter types
-* Simulate Parameters
-* Parameter Properties
-* Parameter combinations
+## What is Parameterization?
+## Why Parameterization?
+## Objectives of Parameterization
+## Parameter types
+## Simulate Parameters
+## Parameter Properties
+## Parameter combinations
 
 # Getting Started with Performance Testing Using LoadRunner
 
