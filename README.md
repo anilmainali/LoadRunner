@@ -71,6 +71,11 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Pacing
 ## Log
 ## Think Time
+Speed Simulation
+Browser Emulation
+Proxy
+Blocks – Multiple Actions
+Think time vs Pacing
 
 # Getting Started with Performance Testing Using LoadRunner
 
