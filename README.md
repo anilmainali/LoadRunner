@@ -46,11 +46,11 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## How to insert comments in the scripts?
 
 # Vugen Logs:
-Vugen logs
-Recorded log
-Replay log
-Compilation errors
-Runtime Data
+## Vugen logs
+## Recorded log
+## Replay log
+## Compilation errors
+## Runtime Data
 
 # Getting Started with Performance Testing Using LoadRunner
 
