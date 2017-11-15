@@ -66,6 +66,12 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Parameter Properties
 ## Parameter combinations
 
+# RunTime Settings
+## Run Logic
+## Pacing
+## Log
+## Think Time
+
 # Getting Started with Performance Testing Using LoadRunner
 
 # Download LoadRunner
