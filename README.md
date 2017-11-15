@@ -52,6 +52,11 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Compilation errors
 ## Runtime Data
 
+# Script Structure:
+Script Structure
+Multiple action files
+Script Rules
+
 # Getting Started with Performance Testing Using LoadRunner
 
 # Download LoadRunner
