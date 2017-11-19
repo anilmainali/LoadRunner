@@ -89,6 +89,8 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Different kind of Scenario’s (Basic Schedule, Real World Schedule, by group, by scenario)
 ## Scenarios Creation.
 ## Adding Load Generators and verifying the connectivity
+* Load Generators, Calculating the # of LGs for a load test.
+* Run Time settings
 
 
 # Getting Started with Performance Testing Using LoadRunner
