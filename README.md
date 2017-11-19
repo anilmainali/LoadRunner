@@ -91,10 +91,10 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Adding Load Generators and verifying the connectivity
 ## Load Generators, Calculating the # of LGs for a load test.
 ## Run Time settings
-* Executing the tests
-* Post-execution activity
-* Monitoring servers through controller
-* Windows resources.
+## Executing the tests
+## Post-execution activity
+## Monitoring servers through controller
+## Windows resources.
 
 # Getting Started with Performance Testing Using LoadRunner
 
