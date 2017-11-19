@@ -84,6 +84,9 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Randomly picking values from drop-down list
 ## How to create a File to store data?
 
+# Controller:
+## What is Controller?
+
 
 # Getting Started with Performance Testing Using LoadRunner
 
