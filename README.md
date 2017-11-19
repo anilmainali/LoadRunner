@@ -86,6 +86,9 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 
 # Controller:
 ## What is Controller?
+* Different kind of Scenario’s (Basic Schedule, Real World Schedule, by group, by scenario)
+* Scenarios Creation.
+* Adding Load Generators and verifying the connectivity
 
 
 # Getting Started with Performance Testing Using LoadRunner
