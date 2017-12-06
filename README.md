@@ -103,12 +103,12 @@ Analyzer:
   - 90thPercentile
   - Analyzer Graphs
   - Analyzer Reports
-Drill-down
-Granularity
-Auto Correlate
-Cross Results
-Merge Graphs
-Web Page Diagnostics
+  - Drill-down
+  - Granularity
+  - Auto Correlate
+  - Cross Results
+  - Merge Graphs
+  - Web Page Diagnostics
 
 # Getting Started with Performance Testing Using LoadRunner
 
