@@ -101,6 +101,8 @@ What is Analyzer?
 Auto Load Analysis
 Session Explorer
 90thPercentile
+Analyzer Graphs
+Analyzer Reports
 
 # Getting Started with Performance Testing Using LoadRunner
 
