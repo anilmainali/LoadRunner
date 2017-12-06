@@ -99,6 +99,8 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 Analyzer:
 What is Analyzer?
 Auto Load Analysis
+Session Explorer
+90thPercentile
 
 # Getting Started with Performance Testing Using LoadRunner
 
