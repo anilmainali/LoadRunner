@@ -107,6 +107,8 @@ Drill-down
 Granularity
 Auto Correlate
 Cross Results
+Merge Graphs
+Web Page Diagnostics
 
 # Getting Started with Performance Testing Using LoadRunner
 
