@@ -105,6 +105,8 @@ Analyzer Graphs
 Analyzer Reports
 Drill-down
 Granularity
+Auto Correlate
+Cross Results
 
 # Getting Started with Performance Testing Using LoadRunner
 
