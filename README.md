@@ -103,6 +103,8 @@ Session Explorer
 90thPercentile
 Analyzer Graphs
 Analyzer Reports
+Drill-down
+Granularity
 
 # Getting Started with Performance Testing Using LoadRunner
 
