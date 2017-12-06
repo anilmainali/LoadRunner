@@ -97,12 +97,12 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Windows resources.
 
 Analyzer:
-What is Analyzer?
-Auto Load Analysis
-Session Explorer
-90thPercentile
-Analyzer Graphs
-Analyzer Reports
+  - What is Analyzer?
+  - Auto Load Analysis
+  - Session Explorer
+  - 90thPercentile
+  - Analyzer Graphs
+  - Analyzer Reports
 Drill-down
 Granularity
 Auto Correlate
