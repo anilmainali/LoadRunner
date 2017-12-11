@@ -96,7 +96,7 @@ LoadRunner is boasted as "Application load testing software that gives you an ac
 ## Monitoring servers through controller
 ## Windows resources.
 
-Analyzer:
+## Analyzer:
   - What is Analyzer?
   - Auto Load Analysis
   - Session Explorer
