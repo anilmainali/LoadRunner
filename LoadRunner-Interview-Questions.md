@@ -8,3 +8,4 @@
 ## What is extended log?
 ## What is Rendezvous point?
 ## What are all the components of LoadRunner?
+## What does vuser_init and vuser_end action contain?
