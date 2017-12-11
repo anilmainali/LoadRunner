@@ -5,3 +5,4 @@
 ## What is difference between Think Time and Pacing?
 ## What is the difference in running the Vuser as a process and as a thread? Which is more advantageous way of running Vuser?
 ## What is load runner Agent?
+## What is extended log?
