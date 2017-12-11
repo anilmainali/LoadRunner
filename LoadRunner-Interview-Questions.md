@@ -9,3 +9,4 @@
 ## What is Rendezvous point?
 ## What are all the components of LoadRunner?
 ## What does vuser_init and vuser_end action contain?
+## What is the difference between standard log and extended log?
