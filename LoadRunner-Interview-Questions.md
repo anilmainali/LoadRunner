@@ -7,3 +7,4 @@
 ## What is load runner Agent?
 ## What is extended log?
 ## What is Rendezvous point?
+## What are all the components of LoadRunner?
