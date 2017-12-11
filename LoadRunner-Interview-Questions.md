@@ -1,5 +1,5 @@
 
 # LoadRunner Interview Questions
 ## What is the differences between HTTP and URL mode of scripting?Which mode of recording do you choose and why?
-## What is difference between think time and pacing?
+## What is difference between Think Time and Pacing?
 
