@@ -24,5 +24,7 @@ https://www.proprofs.com/quiz-school/story.php?title=loadrunner-exam
 
 http://www.careerride.com/test.aspx?type=LoadRunner
 
+http://qainsights.com/tag/loadrunner-quiz/
+
 
 
