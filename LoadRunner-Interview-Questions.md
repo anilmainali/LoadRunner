@@ -32,4 +32,6 @@ http://setskill.com/hp-loadrunner/hp-loadrunner-quiz/
 
 http://www.techbeamers.com/loadrunner-interview-questions-with-answers-part-1/
 
+http://www.softwaretestingstuff.com/2007/10/load-runner-interview-questions.html
+
 
