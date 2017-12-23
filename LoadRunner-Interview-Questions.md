@@ -26,5 +26,7 @@ http://www.careerride.com/test.aspx?type=LoadRunner
 
 http://qainsights.com/tag/loadrunner-quiz/
 
+http://setskill.com/hp-loadrunner/hp-loadrunner-quiz/
+
 
 
