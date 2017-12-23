@@ -22,5 +22,7 @@ https://career.guru99.com/loadrunner-quiz/
 
 https://www.proprofs.com/quiz-school/story.php?title=loadrunner-exam
 
+http://www.careerride.com/test.aspx?type=LoadRunner
+
 
 
