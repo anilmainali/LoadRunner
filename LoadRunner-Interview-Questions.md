@@ -13,4 +13,6 @@
 ## What is a function to capture dynamic values in the web vuser script?
 ## What are the Load Runner testing process?
 ## What are the three sections of a Vuser script and what is the purpose of each one?
+## LoadRunner Practice Quiz
+
 
