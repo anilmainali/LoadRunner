@@ -34,4 +34,6 @@ http://www.techbeamers.com/loadrunner-interview-questions-with-answers-part-1/
 
 http://www.softwaretestingstuff.com/2007/10/load-runner-interview-questions.html
 
+http://www.gcreddy.com/2012/11/loadrunner-interview-questions.html
+
 
