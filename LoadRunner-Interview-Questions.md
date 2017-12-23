@@ -38,4 +38,6 @@ http://www.gcreddy.com/2012/11/loadrunner-interview-questions.html
 
 http://www.softwaretestinggenius.com/rehearsal-of-loadrunner-in-1-hr-interview-questions-51-60
 
+http://www.careerride.com/LoadRunner-Interview-Questions.aspx
+
 
