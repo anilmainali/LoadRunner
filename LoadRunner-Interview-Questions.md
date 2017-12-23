@@ -30,5 +30,6 @@ http://setskill.com/hp-loadrunner/hp-loadrunner-quiz/
 
 http://setskill.com/hp-loadrunner/hp-loadrunner-quiz/
 
+http://www.techbeamers.com/loadrunner-interview-questions-with-answers-part-1/
 
 
