@@ -16,7 +16,9 @@
 ## LoadRunner Practice Quiz
 Checkout your skills on LoadRunner by going through these Quizzes.
 
-http://www.guru99.com/component/com_joomlaquiz/Itemid,1187/quiz_id,4/view,quiz/ http://www.proprofs.com/ 
+http://www.guru99.com/component/com_joomlaquiz/Itemid,1187/quiz_id,4/view,quiz/ 
+
+https://career.guru99.com/loadrunner-quiz/
 
 https://www.proprofs.com/quiz-school/story.php?title=loadrunner-exam
 
