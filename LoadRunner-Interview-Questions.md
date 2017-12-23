@@ -28,5 +28,7 @@ http://qainsights.com/tag/loadrunner-quiz/
 
 http://setskill.com/hp-loadrunner/hp-loadrunner-quiz/
 
+http://setskill.com/hp-loadrunner/hp-loadrunner-quiz/
+
 
 
