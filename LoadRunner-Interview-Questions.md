@@ -14,5 +14,7 @@
 ## What are the Load Runner testing process?
 ## What are the three sections of a Vuser script and what is the purpose of each one?
 ## LoadRunner Practice Quiz
+Checkout your skills on LoadRunner by going through these Quizzes.
+
 
 
