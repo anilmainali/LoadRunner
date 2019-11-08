@@ -181,4 +181,7 @@ Where do you set ‘HTTP request connect timeout’?
 
 In Runtime Settings –> Internet Protocol –> Options –> HTTP-Request Connect Timeout
 
+# Resourses
+
+https://admhelp.microfocus.com/lr/en/12.56-12.57/help/WebHelp/Content/Tutorial/Analysis.htm
 
