@@ -84,3 +84,18 @@ Deep application usage understanding isrequired in order to build proper mix of 
 their popularity among the users.
 
 
+# Performance Testing Calculator
+
+PerfTractor: Performance Testing Tool Prices and Calculators
+
+Little's Law Calculator : calculate the
+
+Number of Vusers
+
+Pacing Time (seconds)
+
+Total Test Data required
+
+Total Virtual Users that can run on that Load Generator
+
+Demo Links: Lists of sample web applications which will helpful to learn performance testing tool concepts
