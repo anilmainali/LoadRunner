@@ -99,3 +99,86 @@ Total Test Data required
 Total Virtual Users that can run on that Load Generator
 
 Demo Links: Lists of sample web applications which will helpful to learn performance testing tool concepts
+
+
+# Possible LoadRunner Questions.
+
+What kind of scripting challenges you have faced in your project?
+
+What kind of challenges you have faced in controller?
+
+Can we have multiple LG’s?
+
+How do you decide the number of LG’s required for your project?
+
+How did you do error handling in your project?
+
+Difference Between web_reg_save_param_ex and web_reg_save_param?
+
+Stacy has received the Transactional Volumes and number of concurrent users as part of NFR for the Peak hour. She is expected to test the system, if it can handle the load at the peak hour and also make sure SLA’s are met. Which test is she supposed to do?
+She has to execute Load Test. In some organizations, it’s also called as peak load test.
+Note: Load test is done for the peak hour. Idea is, If SUT can handle load at peak hour, then it can handle load at any hour.
+
+Did you face any scripting challenges related to security?
+What is the difference between Baseline Testing and Benchmark Testing?
+Baseline testing:
+Let’s say, you have execute a load test for your first release. You record all your response times for this test in your test report. In the second release, again you rerun the same test as there are some changes to your application. <Changes could be either software or hardware in nature>. Results from your second test will be compared to the first test and this kind of testing is baseline testing.
+ 
+BenchMark Testing:
+Before you start your test (Lets Say Load test), NFR will be collected from the client. Client usually shared the expected Response time for the application. In some organizations, we call this “Expected response Times” as SLA’s. As a performance tester, you are suppose to compare your results with the SLA’s provided by the client. This is called BenchMark testing.
+ 
+Ideally, Baseline results should not exceed benchmark results.
+ 
+Let’s consider this example…
+Assume that there are some standards for completing the marathon. Let’s say that it needs to be done in 5:00 Hrs. Now this is the benchmark. Let’s say, you starting your marathon and completed in 4:30 mins. Now this become baseline for your next marathon.
+
+
+For a script, if the run-time settings are changed in the controller, will it change in the Vugen?
+
+No. It will not change. Run time settings for a script will remain unchanged, if changed from controller. Changed / Updated run time settings are applicable only for that Test Scenario.
+
+
+When will the Vuser reach “Pass / Fail” status in controller?
+
+Once the test is done, the users usually reach “Stopped” status irrespective of whether transactions have passed or failed. Users move from “Run” Status to –> “Gradual Exiting” Status –> “Exiting” status to finally —>”Stopped” status.
+Rarely, we see users reach “pass / Fail ” Status. This will happen when you use “lr_exit” function in Vuser Script.
+Refer to below screensho
+
+
+How do you capture response times of each element associated with the page?
+
+Capture / Record your script in the URL mode. Identify all the HTTP resources / elements related to a particular transaction. Use lr_start_sub_transaction and lr_end_sub_transaction appropriately as shown below to capture the response times of each element.
+
+
+What is the Wasted time in the transaction response time and does your response time captured include this wasted time?
+
+
+A) Well, the “Wasted time” will distinguish between the actual time taken for processing the request and time wasted for doing other activities like displaying information.
+For the web scripts, time taken to execute web_reg_find and web_reg_save_param and for these functions to find the text in the response buffer will be considered as wasted time.
+In Vugen, this wasted time is part of response time. But, however, in controller this time is not considered in the response time.
+
+
+How will Cache impact response times?
+
+Cache may impact response times. For the Page Element / Resource for which it is cached in, request will not go the server to fetch it and hence there will not be any response. Hence the transaction for which this component / resource belongs, response times may be lesser than the actual ones. Moreover, there will not be any load created by this cached in elements.
+
+
+What is the difference between lr_error_message and lr_debug _message?
+
+1. The lr_debug_message sends a debugging message to the console window of Load Runner Controller
+
+2. The lr_error_message sends an error message to the console window of Load Runner Controller
+
+3. lr_error_message occurs when there is an error in the code of the application. On the other hand lr_debug _message occurs when there is a flaw in the functionality of the program. lr_error_message throws an error message in LoadRunner while lr_debug _message throws a debug message in Load runner
+
+
+What is the significance of Vuser_init Action?
+
+Everything that needs to be initialized is placed here in this action. As shown below, vugen will load run-time settings, Run Mode, User Agent etc..
+ 
+
+Where do you set ‘HTTP request connect timeout’?
+
+In Runtime Settings –> Internet Protocol –> Options –> HTTP-Request Connect Timeout
+
+
