@@ -15,3 +15,6 @@ usually measured in terms of requests persecond. In some systems, throughput may
 when there are many concurrent users, while in othersystems, it remains constant under pressure
 but latency beginsto suffer, usually due to queuing. How busy the variousresources of a
 computersystem get is known astheir **utilization.**
+
+The key measures of the time it takesto perform specific tasks are queue time, service time, and
+response time.
