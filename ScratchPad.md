@@ -1,3 +1,50 @@
+Interview preparation:
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+
+Checkpoints:
+
+You need to check whether you got the correct response or not (page)
+
+
+Let’s say i want to put a text check before a login transaction. And you know once you send the log in transaction to the server from the server you get a response like:
+Welcome to the web tours page and there might be some other information like which will be there on the page. This is a right response time and this i what you are supposed to get. 
+
+But you might get another response aswell.404, page not found or some other response. This is a negative response. So you want to check if you get a right response or not. 
+
+VUGEN ITSELF DOES NOT DISTINGUISH THIS RESPONSE OR THE OTHER RESPONSE. RIGHT OR WRONG.
+aS LONG AS IT GETS RESPONSE ITS FINE.BUT IT DOES NOT DISTINGUISH WHETHER IT GOT THE RIGHT RESPONSE OR NOT. VUGEN DOES NOT HAVE THE CAPABILITY TO DISTINGUISH WHICH ONE IS RIGHT AND WHICH ONE IS WRONG RESPONSE. 
+SO TO EMPOWER THE VUGEN YOU ADD A CHECK POINT.
+with a text "Welcome".now you have given a vugen extra power. now as soon as you got the response it will start to search for the text welcome in that response. If it is there then it will mark the transaction as Pass. And if it is not there then it will mark the transaction as failed. 
+So you are empowering the vugen to mark which one is correct response and which one is an incorrect response. 
+This is the significance of check points. 
+
+ALWAYS REMEMBER THE TEXT CHECK GOES BEFORE THE REQUEST AND NOT AFTER THE REQUEST.
+
+Function:
+```
+// Set up check for successful login by looking for "Welcome"
+
+web_reg_find
+
+web_reg_find("Text=Welcome",
+        "SaveCount=Welcome_Count",
+        LAST );
+
+// Check result
+    if (atoi(lr_eval_string("{Welcome_Count}")) > 0){
+        lr_output_message("Log on successful.");
+        }
+     else{
+          lr_error_message("Log on failed");
+          return(0);
+     }
+
+```
+
+
+
 # Performance Terminology
 
 Credit: https://www.microfocus.com/media/documentation/loadrunner_and_performance_center_document.pdf
